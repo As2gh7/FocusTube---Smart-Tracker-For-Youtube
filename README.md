@@ -1,0 +1,1 @@
+A chrome based extesion to calssify content watched on youtube into 3 categories i.e Educational, Entertainment or Informational. It is privacy first application and all data is stored locally on user's device
